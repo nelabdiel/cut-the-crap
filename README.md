@@ -2,7 +2,8 @@
 
 A Chrome extension that removes marketing tags and trackers from copied links, ensuring you share clean URLs without unnecessary parameters.
 
-![Logo](ctcLogo.png)
+<p align="center"><img src="./ctcLogo.png" width="400"></p>
+(this logo was generated with ChatGPT, as you can tell)
 
 ## Installation:
 
