@@ -2,7 +2,7 @@
 
 A Chrome extension that removes marketing tags and trackers from copied links, ensuring you share clean URLs without unnecessary parameters.
 
-![Logo](ctc.png)
+![Logo](ctcLogo.png)
 
 ## Installation:
 
@@ -33,7 +33,7 @@ Icons are resized for various uses:
 ## Screenshots
 
 ### HTML Popup Example
-![HTML Popup](screenshot.png)
+![HTML Popup](Screenshot.png)
 
 ## License
 
